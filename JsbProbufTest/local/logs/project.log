@@ -1,0 +1,642 @@
+2018-06-13T03:49:35.850Z - normal: Load ~/.CocosCreator/settings.json
+2018-06-13T03:49:35.854Z - normal: checking language setting...
+2018-06-13T03:49:35.856Z - normal: Language: zh
+2018-06-13T03:49:37.530Z - success: protocol editor-framework registered
+2018-06-13T03:49:37.530Z - success: protocol app registered
+2018-06-13T03:49:37.530Z - success: protocol theme registered
+2018-06-13T03:49:37.530Z - success: protocol packages registered
+2018-06-13T03:49:37.531Z - success: protocol unpack registerred
+2018-06-13T03:49:37.531Z - success: protocol disable-commonjs registerred
+2018-06-13T03:49:37.795Z - normal: connected!
+2018-06-13T03:49:37.804Z - normal: Check project E:\code\client\JsbProbufTest
+2018-06-13T03:49:37.811Z - normal: Initializing Cocos2d
+2018-06-13T03:49:38.049Z - normal: Initializing Asset Database
+2018-06-13T03:49:38.078Z - success: protocol uuid registerred
+2018-06-13T03:49:38.078Z - success: protocol db registerred
+2018-06-13T03:49:38.078Z - success: protocol thumbnail registerred
+2018-06-13T03:49:38.078Z - normal: Loading editor/builtin packages
+2018-06-13T03:49:38.095Z - success: anysdk loaded
+2018-06-13T03:49:38.199Z - success: assets loaded
+2018-06-13T03:49:38.201Z - success: builder loaded
+2018-06-13T03:49:38.202Z - success: cocos-analytics loaded
+2018-06-13T03:49:38.204Z - success: console loaded
+2018-06-13T03:49:38.206Z - success: hierarchy loaded
+2018-06-13T03:49:38.208Z - success: inspector loaded
+2018-06-13T03:49:38.209Z - success: keystore loaded
+2018-06-13T03:49:38.211Z - success: node-library loaded
+2018-06-13T03:49:38.212Z - success: package-asset loaded
+2018-06-13T03:49:38.214Z - success: preferences loaded
+2018-06-13T03:49:38.216Z - success: project-exporter loaded
+2018-06-13T03:49:38.229Z - success: project-importer loaded
+2018-06-13T03:49:38.231Z - success: project-settings loaded
+2018-06-13T03:49:38.232Z - success: ui-kit loaded
+2018-06-13T03:49:38.238Z - success: ui-grid loaded
+2018-06-13T03:49:38.240Z - success: scene loaded
+2018-06-13T03:49:38.241Z - success: sprite-editor loaded
+2018-06-13T03:49:38.244Z - success: store loaded
+2018-06-13T03:49:38.248Z - success: timeline loaded
+2018-06-13T03:49:38.248Z - normal: Loading builtin packages
+2018-06-13T03:49:38.250Z - success: asset-db-debugger loaded
+2018-06-13T03:49:38.251Z - success: code-editor loaded
+2018-06-13T03:49:38.251Z - success: color-picker loaded
+2018-06-13T03:49:38.253Z - success: package-manager loaded
+2018-06-13T03:49:38.309Z - success: sdkbox loaded
+2018-06-13T03:49:38.312Z - success: tester loaded
+2018-06-13T03:49:38.313Z - normal: last time update is in one day
+2018-06-13T03:49:38.314Z - success: ui-kit-preview-extra loaded
+2018-06-13T03:49:38.316Z - success: ui-kit-preview loaded
+2018-06-13T03:49:38.317Z - success: ui-tree loaded
+2018-06-13T03:49:39.312Z - normal: Initializing project E:\code\client\JsbProbufTest
+2018-06-13T03:49:39.313Z - normal: Loading packages
+2018-06-13T03:49:39.403Z - success: game-preview loaded
+2018-06-13T03:49:39.454Z - normal: pbkiller on load
+2018-06-13T03:49:39.455Z - success: pbkiller loaded
+2018-06-13T03:49:39.455Z - normal: Watching packages
+2018-06-13T03:49:39.500Z - normal: Run Application
+2018-06-13T03:49:39.770Z - success: preview server running at http://localhost:7456
+2018-06-13T03:49:43.663Z - normal: 1.6.0
+2018-06-13T03:49:49.064Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-06-13T03:49:49.065Z - normal: Simulator: WORKAREA WIDTH 1904.00, HEIGHT 992.00
+2018-06-13T03:49:49.065Z - normal: Simulator: FRAME SCALE = 1.00
+2018-06-13T03:49:49.334Z - normal: Simulator: Ready for GLSL
+2018-06-13T03:49:49.334Z - normal: Simulator: Ready for OpenGL 2.0
+2018-06-13T03:49:49.337Z - normal: Simulator: 
+2018-06-13T03:49:49.337Z - normal: Simulator: {
+2018-06-13T03:49:49.337Z - normal: Simulator: 	gl.version: 4.4.0 - Build 21.20.16.4508
+2018-06-13T03:49:49.337Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-06-13T03:49:49.339Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-06-13T03:49:49.339Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-06-13T03:49:49.339Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-06-13T03:49:49.339Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-06-13T03:49:49.339Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-06-13T03:49:49.339Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-06-13T03:49:49.340Z - normal: Simulator: 	gl.vendor: Intel
+2018-06-13T03:49:49.340Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-06-13T03:49:49.340Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-06-13T03:49:49.340Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-06-13T03:49:49.340Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-06-13T03:49:49.340Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-06-13T03:49:49.340Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-06-13T03:49:49.340Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-06-13T03:49:49.341Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-06-13T03:49:49.341Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-06-13T03:49:49.341Z - normal: Simulator: }
+2018-06-13T03:49:49.341Z - normal: Simulator: 
+2018-06-13T03:49:49.341Z - normal: Simulator: 
+2018-06-13T03:49:49.341Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-06-13T03:49:49.344Z - normal: Simulator: Project Config:
+2018-06-13T03:49:49.344Z - normal: Simulator:     project dir: E:\code\client\cocos2d-x-lite\simulator\win32\
+2018-06-13T03:49:49.344Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-06-13T03:49:49.345Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-06-13T03:49:49.345Z - normal: Simulator:     frame size: 960 x 640
+2018-06-13T03:49:49.345Z - normal: Simulator:     frame scale: 1.00
+2018-06-13T03:49:49.345Z - normal: Simulator:     show console: NO
+2018-06-13T03:49:49.345Z - normal: Simulator:     write debug log: NO ()
+2018-06-13T03:49:49.345Z - normal: Simulator:     listen: 
+2018-06-13T03:49:49.346Z - normal: Simulator:     debugger: none
+2018-06-13T03:49:49.346Z - normal: Simulator:     add searching path:
+2018-06-13T03:49:49.346Z - normal: Simulator: 
+2018-06-13T03:49:49.346Z - normal: Simulator: 
+2018-06-13T03:49:49.346Z - normal: Simulator: 
+2018-06-13T03:49:49.346Z - normal: Simulator: ------------------------------------------------
+2018-06-13T03:49:49.348Z - normal: Simulator: LOAD Js FILE: main.js
+2018-06-13T03:49:49.348Z - normal: Simulator: ------------------------------------------------
+2018-06-13T03:49:49.349Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-06-13T03:49:49.628Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-06-13T03:49:49.629Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-06-13T03:49:49.629Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-06-13T03:49:49.783Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-06-13T03:49:49.957Z - normal: Simulator: iShow!
+2018-06-13T03:49:49.966Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][ctor]--构造函数
+2018-06-13T03:49:49.966Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][ctor]--构造函数
+2018-06-13T03:49:50.041Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.0540000000000305ms
+2018-06-13T03:49:50.041Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.18900000000002137ms
+2018-06-13T03:49:50.041Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.07099999999996953ms
+2018-06-13T03:49:50.042Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.005000000000052296ms
+2018-06-13T03:49:50.065Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:49:50.070Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:49:50.080Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:49:50.080Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:49:50.081Z - normal: Simulator: D/jswrapper (125): JS: [TestSceneView][onLoad] -- onLoad
+2018-06-13T03:49:50.081Z - normal: Simulator: D/jswrapper (125): JS: [TestSceneView][onEnable] -- init
+2018-06-13T03:49:50.082Z - normal: Simulator: D/jswrapper (125): JS: Activate: 39.69499999999999ms
+2018-06-13T03:49:52.701Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][connectServer]--server:127.0.0.1:9008,tag:1
+2018-06-13T03:49:53.220Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:1
+2018-06-13T03:49:53.220Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onConnected]--result:true
+2018-06-13T03:49:53.220Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][sendLogonPacket] --sendLogonPacket
+2018-06-13T03:49:53.236Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][sendData]--tag:1,main:1,sub:1001
+2018-06-13T03:49:53.718Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:3
+2018-06-13T03:49:53.718Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onTcpDataRecv] -- main:1,sub:1002,size:7
+2018-06-13T03:49:53.721Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onCmdMainLogon] --sub:1002,size:7
+2018-06-13T03:49:53.735Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onSubLogonResonse] --size:7
+2018-06-13T03:49:53.736Z - normal: Simulator: D/jswrapper (125): JS: [logonTest] -- id:1,name:wen
+2018-06-13T03:51:43.495Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-06-13T03:51:43.496Z - normal: Simulator: WORKAREA WIDTH 1904.00, HEIGHT 992.00
+2018-06-13T03:51:43.497Z - normal: Simulator: FRAME SCALE = 1.00
+2018-06-13T03:51:43.777Z - normal: Simulator: Ready for GLSL
+2018-06-13T03:51:43.778Z - normal: Simulator: Ready for OpenGL 2.0
+2018-06-13T03:51:43.780Z - normal: Simulator: 
+2018-06-13T03:51:43.780Z - normal: Simulator: {
+2018-06-13T03:51:43.780Z - normal: Simulator: 	gl.version: 4.4.0 - Build 21.20.16.4508
+2018-06-13T03:51:43.780Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-06-13T03:51:43.780Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-06-13T03:51:43.780Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-06-13T03:51:43.780Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-06-13T03:51:43.780Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-06-13T03:51:43.780Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-06-13T03:51:43.781Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-06-13T03:51:43.781Z - normal: Simulator: 	gl.vendor: Intel
+2018-06-13T03:51:43.781Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-06-13T03:51:43.781Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-06-13T03:51:43.781Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-06-13T03:51:43.781Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-06-13T03:51:43.781Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-06-13T03:51:43.781Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-06-13T03:51:43.781Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-06-13T03:51:43.781Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-06-13T03:51:43.782Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-06-13T03:51:43.782Z - normal: Simulator: }
+2018-06-13T03:51:43.782Z - normal: Simulator: 
+2018-06-13T03:51:43.782Z - normal: Simulator: 
+2018-06-13T03:51:43.782Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-06-13T03:51:43.785Z - normal: Simulator: Project Config:
+2018-06-13T03:51:43.787Z - normal: Simulator:     project dir: E:\code\client\cocos2d-x-lite\simulator\win32\
+2018-06-13T03:51:43.787Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-06-13T03:51:43.787Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-06-13T03:51:43.788Z - normal: Simulator:     frame size: 960 x 640
+2018-06-13T03:51:43.788Z - normal: Simulator:     frame scale: 1.00
+2018-06-13T03:51:43.788Z - normal: Simulator:     show console: NO
+2018-06-13T03:51:43.788Z - normal: Simulator:     write debug log: NO ()
+2018-06-13T03:51:43.788Z - normal: Simulator:     listen: 
+2018-06-13T03:51:43.788Z - normal: Simulator:     debugger: none
+2018-06-13T03:51:43.788Z - normal: Simulator:     add searching path:
+2018-06-13T03:51:43.788Z - normal: Simulator: 
+2018-06-13T03:51:43.788Z - normal: Simulator: 
+2018-06-13T03:51:43.788Z - normal: Simulator: 
+2018-06-13T03:51:43.788Z - normal: Simulator: ------------------------------------------------
+2018-06-13T03:51:43.789Z - normal: Simulator: LOAD Js FILE: main.js
+2018-06-13T03:51:43.789Z - normal: Simulator: ------------------------------------------------
+2018-06-13T03:51:43.795Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-06-13T03:51:44.064Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-06-13T03:51:44.065Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-06-13T03:51:44.065Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-06-13T03:51:44.209Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-06-13T03:51:44.375Z - normal: Simulator: iShow!
+2018-06-13T03:51:44.382Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][ctor]--构造函数
+2018-06-13T03:51:44.382Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][ctor]--构造函数
+2018-06-13T03:51:44.459Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 6.4220000000000255ms
+2018-06-13T03:51:44.459Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.18200000000001637ms
+2018-06-13T03:51:44.460Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.10200000000003229ms
+2018-06-13T03:51:44.460Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.0049999999999954525ms
+2018-06-13T03:51:44.470Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:51:44.481Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:51:44.481Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:51:44.481Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:51:44.482Z - normal: Simulator: D/jswrapper (125): JS: [TestSceneView][onLoad] -- onLoad
+2018-06-13T03:51:44.482Z - normal: Simulator: D/jswrapper (125): JS: [TestSceneView][onEnable] -- init
+2018-06-13T03:51:44.484Z - normal: Simulator: D/jswrapper (125): JS: Activate: 22.29400000000004ms
+2018-06-13T03:51:45.927Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][connectServer]--server:127.0.0.1:9008,tag:1
+2018-06-13T03:51:46.443Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:1
+2018-06-13T03:51:46.443Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onConnected]--result:true
+2018-06-13T03:51:46.443Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][sendLogonPacket] --sendLogonPacket
+2018-06-13T03:51:46.447Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][sendData]--tag:1,main:1,sub:1001
+2018-06-13T03:51:46.944Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:3
+2018-06-13T03:51:46.944Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onTcpDataRecv] -- main:1,sub:1002,size:7
+2018-06-13T03:51:46.944Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onCmdMainLogon] --sub:1002,size:7
+2018-06-13T03:51:46.945Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onSubLogonResonse] --size:7
+2018-06-13T03:51:46.945Z - normal: Simulator: D/jswrapper (125): JS: [logonTest] -- id:1,name:wen
+2018-06-13T03:52:04.196Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-06-13T03:52:04.196Z - normal: Simulator: WORKAREA WIDTH 1904.00, HEIGHT 992.00
+2018-06-13T03:52:04.197Z - normal: Simulator: FRAME SCALE = 1.00
+2018-06-13T03:52:04.476Z - normal: Simulator: Ready for GLSL
+2018-06-13T03:52:04.476Z - normal: Simulator: Ready for OpenGL 2.0
+2018-06-13T03:52:04.479Z - normal: Simulator: 
+2018-06-13T03:52:04.479Z - normal: Simulator: {
+2018-06-13T03:52:04.479Z - normal: Simulator: 	gl.version: 4.4.0 - Build 21.20.16.4508
+2018-06-13T03:52:04.479Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-06-13T03:52:04.479Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-06-13T03:52:04.480Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-06-13T03:52:04.480Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-06-13T03:52:04.480Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-06-13T03:52:04.480Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-06-13T03:52:04.480Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-06-13T03:52:04.480Z - normal: Simulator: 	gl.vendor: Intel
+2018-06-13T03:52:04.480Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-06-13T03:52:04.480Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-06-13T03:52:04.480Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-06-13T03:52:04.480Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-06-13T03:52:04.480Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-06-13T03:52:04.480Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-06-13T03:52:04.481Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-06-13T03:52:04.481Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-06-13T03:52:04.481Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-06-13T03:52:04.481Z - normal: Simulator: }
+2018-06-13T03:52:04.481Z - normal: Simulator: 
+2018-06-13T03:52:04.481Z - normal: Simulator: 
+2018-06-13T03:52:04.481Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-06-13T03:52:04.483Z - normal: Simulator: Project Config:
+2018-06-13T03:52:04.483Z - normal: Simulator:     project dir: E:\code\client\cocos2d-x-lite\simulator\win32\
+2018-06-13T03:52:04.483Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-06-13T03:52:04.483Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-06-13T03:52:04.483Z - normal: Simulator:     frame size: 960 x 640
+2018-06-13T03:52:04.483Z - normal: Simulator:     frame scale: 1.00
+2018-06-13T03:52:04.483Z - normal: Simulator:     show console: NO
+2018-06-13T03:52:04.483Z - normal: Simulator:     write debug log: NO ()
+2018-06-13T03:52:04.484Z - normal: Simulator:     listen: 
+2018-06-13T03:52:04.484Z - normal: Simulator:     debugger: none
+2018-06-13T03:52:04.484Z - normal: Simulator:     add searching path:
+2018-06-13T03:52:04.484Z - normal: Simulator: 
+2018-06-13T03:52:04.484Z - normal: Simulator: 
+2018-06-13T03:52:04.484Z - normal: Simulator: 
+2018-06-13T03:52:04.484Z - normal: Simulator: ------------------------------------------------
+2018-06-13T03:52:04.484Z - normal: Simulator: LOAD Js FILE: main.js
+2018-06-13T03:52:04.484Z - normal: Simulator: ------------------------------------------------
+2018-06-13T03:52:04.486Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-06-13T03:52:04.765Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-06-13T03:52:04.766Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-06-13T03:52:04.766Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-06-13T03:52:04.910Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-06-13T03:52:05.075Z - normal: Simulator: iShow!
+2018-06-13T03:52:05.082Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][ctor]--构造函数
+2018-06-13T03:52:05.082Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][ctor]--构造函数
+2018-06-13T03:52:05.150Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.007000000000005ms
+2018-06-13T03:52:05.150Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.11899999999997135ms
+2018-06-13T03:52:05.150Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.0999999999999659ms
+2018-06-13T03:52:05.151Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.008000000000038199ms
+2018-06-13T03:52:05.160Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:52:05.164Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:52:05.166Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:52:05.169Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:52:05.171Z - normal: Simulator: D/jswrapper (125): JS: [TestSceneView][onLoad] -- onLoad
+2018-06-13T03:52:05.171Z - normal: Simulator: D/jswrapper (125): JS: [TestSceneView][onEnable] -- init
+2018-06-13T03:52:05.181Z - normal: Simulator: D/jswrapper (125): JS: Activate: 24.00400000000002ms
+2018-06-13T03:52:06.073Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][connectServer]--server:127.0.0.1:9008,tag:1
+2018-06-13T03:52:06.600Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:1
+2018-06-13T03:52:06.600Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onConnected]--result:true
+2018-06-13T03:52:06.601Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][sendLogonPacket] --sendLogonPacket
+2018-06-13T03:52:06.605Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][sendData]--tag:1,main:1,sub:1001
+2018-06-13T03:52:07.099Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:3
+2018-06-13T03:52:07.100Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onTcpDataRecv] -- main:1,sub:1002,size:7
+2018-06-13T03:52:07.101Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onCmdMainLogon] --sub:1002,size:7
+2018-06-13T03:52:07.101Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onSubLogonResonse] --size:7
+2018-06-13T03:52:07.102Z - normal: Simulator: D/jswrapper (125): JS: [logonTest] -- id:1,name:wen
+2018-06-13T03:52:08.452Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][disconnectServer]--tag:1
+2018-06-13T03:52:11.117Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][connectServer]--server:127.0.0.1:9008,tag:1
+2018-06-13T03:52:11.634Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:1
+2018-06-13T03:52:11.635Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onConnected]--result:true
+2018-06-13T03:52:11.635Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][sendLogonPacket] --sendLogonPacket
+2018-06-13T03:52:11.637Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][sendData]--tag:1,main:1,sub:1001
+2018-06-13T03:52:12.134Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:3
+2018-06-13T03:52:12.135Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onTcpDataRecv] -- main:1,sub:1002,size:7
+2018-06-13T03:52:12.135Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onCmdMainLogon] --sub:1002,size:7
+2018-06-13T03:52:12.136Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onSubLogonResonse] --size:7
+2018-06-13T03:52:12.139Z - normal: Simulator: D/jswrapper (125): JS: [logonTest] -- id:1,name:wen
+2018-06-13T03:52:14.019Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught ReferenceError: bytes is not defined, location: assets/Script/manager/LogonManager.js:0:0
+2018-06-13T03:52:14.020Z - normal: Simulator: STACK:
+2018-06-13T03:52:14.020Z - normal: Simulator: [0]sendBytes@assets/Script/manager/LogonManager.js:113
+2018-06-13T03:52:14.021Z - normal: Simulator: [1]onBtnSendBytes@assets/Script/TestSceneView.js:63
+2018-06-13T03:52:14.021Z - normal: Simulator: [2]emit@src/jsb_polyfill.js:5864
+2018-06-13T03:52:14.022Z - normal: Simulator: [3]emitEvents@src/jsb_polyfill.js:5849
+2018-06-13T03:52:14.022Z - normal: Simulator: [4]_onTouchEnded@src/jsb_polyfill.js:5431
+2018-06-13T03:52:14.022Z - normal: Simulator: [5]76.EventListeners.invoke@src/jsb_polyfill.js:10860
+2018-06-13T03:52:14.023Z - normal: Simulator: [6]_doDispatchEvent@src/jsb_polyfill.js:10906
+2018-06-13T03:52:14.023Z - normal: Simulator: [7]77.proto.dispatchEvent@src/jsb_polyfill.js:11023
+2018-06-13T03:52:14.023Z - normal: Simulator: [8]_touchEndHandler@src/jsb_polyfill.js:2174
+2018-06-13T03:52:14.024Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0C8290C8) failed!
+2018-06-13T03:52:14.024Z - normal: Simulator: jsb: ERROR: File ..\manual\jsb_cocos2dx_manual.cpp: Line: 462, Function: invokeJSTouchOneByOneCallback
+2018-06-13T03:52:14.025Z - normal: Simulator: invokeJSTouchOneByOneCallback call function failed!
+2018-06-13T03:52:59.043Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-06-13T03:52:59.044Z - normal: Simulator: WORKAREA WIDTH 1904.00, HEIGHT 992.00
+2018-06-13T03:52:59.044Z - normal: Simulator: FRAME SCALE = 1.00
+2018-06-13T03:52:59.336Z - normal: Simulator: Ready for GLSL
+2018-06-13T03:52:59.336Z - normal: Simulator: Ready for OpenGL 2.0
+2018-06-13T03:52:59.346Z - normal: Simulator: 
+2018-06-13T03:52:59.346Z - normal: Simulator: {
+2018-06-13T03:52:59.346Z - normal: Simulator: 	gl.version: 4.4.0 - Build 21.20.16.4508
+2018-06-13T03:52:59.346Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-06-13T03:52:59.346Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-06-13T03:52:59.346Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-06-13T03:52:59.346Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-06-13T03:52:59.347Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-06-13T03:52:59.347Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-06-13T03:52:59.347Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-06-13T03:52:59.347Z - normal: Simulator: 	gl.vendor: Intel
+2018-06-13T03:52:59.347Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-06-13T03:52:59.347Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-06-13T03:52:59.347Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-06-13T03:52:59.350Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-06-13T03:52:59.350Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-06-13T03:52:59.350Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-06-13T03:52:59.351Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-06-13T03:52:59.351Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-06-13T03:52:59.351Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-06-13T03:52:59.351Z - normal: Simulator: }
+2018-06-13T03:52:59.351Z - normal: Simulator: 
+2018-06-13T03:52:59.351Z - normal: Simulator: 
+2018-06-13T03:52:59.351Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-06-13T03:52:59.351Z - normal: Simulator: Project Config:
+2018-06-13T03:52:59.351Z - normal: Simulator:     project dir: E:\code\client\cocos2d-x-lite\simulator\win32\
+2018-06-13T03:52:59.351Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-06-13T03:52:59.352Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-06-13T03:52:59.352Z - normal: Simulator:     frame size: 960 x 640
+2018-06-13T03:52:59.353Z - normal: Simulator:     frame scale: 1.00
+2018-06-13T03:52:59.353Z - normal: Simulator:     show console: NO
+2018-06-13T03:52:59.353Z - normal: Simulator:     write debug log: NO ()
+2018-06-13T03:52:59.353Z - normal: Simulator:     listen: 
+2018-06-13T03:52:59.353Z - normal: Simulator:     debugger: none
+2018-06-13T03:52:59.353Z - normal: Simulator:     add searching path:
+2018-06-13T03:52:59.353Z - normal: Simulator: 
+2018-06-13T03:52:59.353Z - normal: Simulator: 
+2018-06-13T03:52:59.353Z - normal: Simulator: 
+2018-06-13T03:52:59.354Z - normal: Simulator: ------------------------------------------------
+2018-06-13T03:52:59.354Z - normal: Simulator: LOAD Js FILE: main.js
+2018-06-13T03:52:59.354Z - normal: Simulator: ------------------------------------------------
+2018-06-13T03:52:59.354Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-06-13T03:52:59.623Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-06-13T03:52:59.624Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-06-13T03:52:59.624Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-06-13T03:52:59.766Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-06-13T03:52:59.930Z - normal: Simulator: iShow!
+2018-06-13T03:52:59.938Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][ctor]--构造函数
+2018-06-13T03:52:59.938Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][ctor]--构造函数
+2018-06-13T03:53:00.010Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 1.9780000000000086ms
+2018-06-13T03:53:00.010Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.1199999999999477ms
+2018-06-13T03:53:00.010Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.10099999999999909ms
+2018-06-13T03:53:00.010Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.01999999999998181ms
+2018-06-13T03:53:00.020Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:53:00.028Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:53:00.030Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:53:00.030Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:53:00.031Z - normal: Simulator: D/jswrapper (125): JS: [TestSceneView][onLoad] -- onLoad
+2018-06-13T03:53:00.032Z - normal: Simulator: D/jswrapper (125): JS: [TestSceneView][onEnable] -- init
+2018-06-13T03:53:00.034Z - normal: Simulator: D/jswrapper (125): JS: Activate: 23.418999999999983ms
+2018-06-13T03:53:01.721Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][connectServer]--server:127.0.0.1:9008,tag:1
+2018-06-13T03:53:02.236Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:1
+2018-06-13T03:53:02.237Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onConnected]--result:true
+2018-06-13T03:53:02.237Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][sendLogonPacket] --sendLogonPacket
+2018-06-13T03:53:02.254Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][sendData]--tag:1,main:1,sub:1001
+2018-06-13T03:53:02.736Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:3
+2018-06-13T03:53:02.737Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onTcpDataRecv] -- main:1,sub:1002,size:7
+2018-06-13T03:53:02.737Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onCmdMainLogon] --sub:1002,size:7
+2018-06-13T03:53:02.739Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onSubLogonResonse] --size:7
+2018-06-13T03:53:02.761Z - normal: Simulator: D/jswrapper (125): JS: [logonTest] -- id:1,name:wen
+2018-06-13T03:53:03.971Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][sendData]--tag:1,main:1,sub:2001
+2018-06-13T03:53:04.235Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:3
+2018-06-13T03:53:04.236Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onTcpDataRecv] -- main:1,sub:2002,size:14
+2018-06-13T03:53:04.236Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onCmdMainLogon] --sub:2002,size:14
+2018-06-13T03:53:04.237Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onSubBytesResonse] --size:14
+2018-06-13T03:53:04.258Z - normal: Simulator: D/jswrapper (125): JS: [bytesTest] -- id:2,buf:1,2,3,4,5,6,7,8,9,10
+2018-06-13T03:53:04.258Z - normal: Simulator: D/jswrapper (125): JS: [object Object]
+2018-06-13T03:53:05.953Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][sendData]--tag:1,main:1,sub:2003
+2018-06-13T03:53:06.235Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:3
+2018-06-13T03:53:06.236Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onTcpDataRecv] -- main:1,sub:2004,size:0
+2018-06-13T03:53:06.236Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onCmdMainLogon] --sub:2004,size:0
+2018-06-13T03:53:06.236Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onSubRepeatResonse] --size:0
+2018-06-13T03:53:06.238Z - normal: Simulator: E/jswrapper (267): ERROR: Uncaught Error: illegal buffer, location: E:/code/client/JsbProbufTest/assets/Script/extern/protobuf.js:0:0
+2018-06-13T03:53:06.238Z - normal: Simulator: STACK:
+2018-06-13T03:53:06.239Z - normal: Simulator: [0]create_typed_array@E:/code/client/JsbProbufTest/assets/Script/extern/protobuf.js:4787
+2018-06-13T03:53:06.239Z - normal: Simulator: [1]decode@assets/Script/extern/proto.js:738
+2018-06-13T03:53:06.239Z - normal: Simulator: [2]onSubRepeatResonse@assets/Script/manager/LogonManager.js:94
+2018-06-13T03:53:06.239Z - normal: Simulator: [3]onCmdMainLogon@assets/Script/manager/LogonManager.js:71
+2018-06-13T03:53:06.240Z - normal: Simulator: [4]onTcpDataRecv@assets/Script/manager/LogonManager.js:52
+2018-06-13T03:53:06.240Z - normal: Simulator: [5]onSocketEvent@assets/Script/manager/BaseManager.js:98
+2018-06-13T03:53:06.240Z - normal: Simulator: [6]anonymous@assets/Script/manager/BaseManager.js:38
+2018-06-13T03:53:06.240Z - normal: Simulator: E/jswrapper (519): [ERROR] (..\jswrapper\v8\Object.cpp, 519): Invoking function (0CB34A60) failed!
+2018-06-13T03:53:29.415Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-06-13T03:53:29.416Z - normal: Simulator: WORKAREA WIDTH 1904.00, HEIGHT 992.00
+2018-06-13T03:53:29.416Z - normal: Simulator: FRAME SCALE = 1.00
+2018-06-13T03:53:29.688Z - normal: Simulator: Ready for GLSL
+2018-06-13T03:53:29.688Z - normal: Simulator: Ready for OpenGL 2.0
+2018-06-13T03:53:29.692Z - normal: Simulator: 
+2018-06-13T03:53:29.692Z - normal: Simulator: {
+2018-06-13T03:53:29.692Z - normal: Simulator: 	gl.version: 4.4.0 - Build 21.20.16.4508
+2018-06-13T03:53:29.692Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-06-13T03:53:29.692Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-06-13T03:53:29.692Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-06-13T03:53:29.692Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-06-13T03:53:29.692Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-06-13T03:53:29.692Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-06-13T03:53:29.692Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-06-13T03:53:29.692Z - normal: Simulator: 	gl.vendor: Intel
+2018-06-13T03:53:29.692Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-06-13T03:53:29.692Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-06-13T03:53:29.693Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-06-13T03:53:29.693Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-06-13T03:53:29.693Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-06-13T03:53:29.693Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-06-13T03:53:29.693Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-06-13T03:53:29.693Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-06-13T03:53:29.693Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-06-13T03:53:29.693Z - normal: Simulator: }
+2018-06-13T03:53:29.693Z - normal: Simulator: 
+2018-06-13T03:53:29.693Z - normal: Simulator: 
+2018-06-13T03:53:29.693Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-06-13T03:53:29.696Z - normal: Simulator: Project Config:
+2018-06-13T03:53:29.696Z - normal: Simulator:     project dir: E:\code\client\cocos2d-x-lite\simulator\win32\
+2018-06-13T03:53:29.696Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-06-13T03:53:29.696Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-06-13T03:53:29.698Z - normal: Simulator:     frame size: 960 x 640
+2018-06-13T03:53:29.698Z - normal: Simulator:     frame scale: 1.00
+2018-06-13T03:53:29.699Z - normal: Simulator:     show console: NO
+2018-06-13T03:53:29.699Z - normal: Simulator:     write debug log: NO ()
+2018-06-13T03:53:29.700Z - normal: Simulator:     listen: 
+2018-06-13T03:53:29.700Z - normal: Simulator:     debugger: none
+2018-06-13T03:53:29.700Z - normal: Simulator:     add searching path:
+2018-06-13T03:53:29.700Z - normal: Simulator: 
+2018-06-13T03:53:29.700Z - normal: Simulator: 
+2018-06-13T03:53:29.700Z - normal: Simulator: 
+2018-06-13T03:53:29.700Z - normal: Simulator: ------------------------------------------------
+2018-06-13T03:53:29.700Z - normal: Simulator: LOAD Js FILE: main.js
+2018-06-13T03:53:29.701Z - normal: Simulator: ------------------------------------------------
+2018-06-13T03:53:29.701Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-06-13T03:53:29.989Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-06-13T03:53:29.990Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-06-13T03:53:29.990Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-06-13T03:53:30.133Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-06-13T03:53:30.304Z - normal: Simulator: iShow!
+2018-06-13T03:53:30.311Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][ctor]--构造函数
+2018-06-13T03:53:30.311Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][ctor]--构造函数
+2018-06-13T03:53:30.378Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.200999999999965ms
+2018-06-13T03:53:30.378Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.13800000000003365ms
+2018-06-13T03:53:30.378Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.07900000000000773ms
+2018-06-13T03:53:30.379Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.005999999999971806ms
+2018-06-13T03:53:30.393Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:53:30.394Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:53:30.397Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:53:30.400Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T03:53:30.401Z - normal: Simulator: D/jswrapper (125): JS: [TestSceneView][onLoad] -- onLoad
+2018-06-13T03:53:30.401Z - normal: Simulator: D/jswrapper (125): JS: [TestSceneView][onEnable] -- init
+2018-06-13T03:53:30.403Z - normal: Simulator: D/jswrapper (125): JS: Activate: 24.685000000000002ms
+2018-06-13T03:53:34.175Z - normal: Simulator: D/jswrapper (418): Debugger attached.
+2018-06-13T03:53:36.401Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][connectServer]--server:127.0.0.1:9008,tag:1
+2018-06-13T03:53:36.917Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:1
+2018-06-13T03:53:36.918Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onConnected]--result:true
+2018-06-13T03:53:36.919Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][sendLogonPacket] --sendLogonPacket
+2018-06-13T03:53:36.938Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][sendData]--tag:1,main:1,sub:1001
+2018-06-13T03:53:37.417Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:3
+2018-06-13T03:53:37.418Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onTcpDataRecv] -- main:1,sub:1002,size:7
+2018-06-13T03:53:37.420Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onCmdMainLogon] --sub:1002,size:7
+2018-06-13T03:53:37.422Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onSubLogonResonse] --size:7
+2018-06-13T03:53:37.444Z - normal: Simulator: D/jswrapper (125): JS: [logonTest] -- id:1,name:wen
+2018-06-13T04:14:02.342Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-06-13T04:14:02.343Z - normal: Simulator: WORKAREA WIDTH 1904.00, HEIGHT 992.00
+2018-06-13T04:14:02.344Z - normal: Simulator: FRAME SCALE = 1.00
+2018-06-13T04:14:02.619Z - normal: Simulator: Ready for GLSL
+2018-06-13T04:14:02.619Z - normal: Simulator: Ready for OpenGL 2.0
+2018-06-13T04:14:02.629Z - normal: Simulator: 
+2018-06-13T04:14:02.629Z - normal: Simulator: {
+2018-06-13T04:14:02.629Z - normal: Simulator: 	gl.version: 4.4.0 - Build 21.20.16.4508
+2018-06-13T04:14:02.629Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-06-13T04:14:02.629Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-06-13T04:14:02.629Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-06-13T04:14:02.629Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-06-13T04:14:02.629Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-06-13T04:14:02.629Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-06-13T04:14:02.629Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-06-13T04:14:02.629Z - normal: Simulator: 	gl.vendor: Intel
+2018-06-13T04:14:02.629Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-06-13T04:14:02.629Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-06-13T04:14:02.630Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-06-13T04:14:02.630Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-06-13T04:14:02.630Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-06-13T04:14:02.630Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-06-13T04:14:02.630Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-06-13T04:14:02.630Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-06-13T04:14:02.630Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-06-13T04:14:02.630Z - normal: Simulator: }
+2018-06-13T04:14:02.630Z - normal: Simulator: 
+2018-06-13T04:14:02.630Z - normal: Simulator: 
+2018-06-13T04:14:02.630Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-06-13T04:14:02.630Z - normal: Simulator: Project Config:
+2018-06-13T04:14:02.630Z - normal: Simulator:     project dir: E:\code\client\cocos2d-x-lite\simulator\win32\
+2018-06-13T04:14:02.630Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-06-13T04:14:02.630Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-06-13T04:14:02.630Z - normal: Simulator:     frame size: 960 x 640
+2018-06-13T04:14:02.630Z - normal: Simulator:     frame scale: 1.00
+2018-06-13T04:14:02.631Z - normal: Simulator:     show console: NO
+2018-06-13T04:14:02.631Z - normal: Simulator:     write debug log: NO ()
+2018-06-13T04:14:02.631Z - normal: Simulator:     listen: 
+2018-06-13T04:14:02.631Z - normal: Simulator:     debugger: none
+2018-06-13T04:14:02.631Z - normal: Simulator:     add searching path:
+2018-06-13T04:14:02.631Z - normal: Simulator: 
+2018-06-13T04:14:02.631Z - normal: Simulator: 
+2018-06-13T04:14:02.631Z - normal: Simulator: 
+2018-06-13T04:14:02.631Z - normal: Simulator: ------------------------------------------------
+2018-06-13T04:14:02.631Z - normal: Simulator: LOAD Js FILE: main.js
+2018-06-13T04:14:02.631Z - normal: Simulator: ------------------------------------------------
+2018-06-13T04:14:02.633Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-06-13T04:14:02.917Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-06-13T04:14:02.921Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-06-13T04:14:02.921Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-06-13T04:14:03.069Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-06-13T04:14:03.247Z - normal: Simulator: iShow!
+2018-06-13T04:14:03.262Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][ctor]--构造函数
+2018-06-13T04:14:03.263Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][ctor]--构造函数
+2018-06-13T04:14:03.326Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.466000000000008ms
+2018-06-13T04:14:03.327Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.2909999999999968ms
+2018-06-13T04:14:03.327Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.103999999999985ms
+2018-06-13T04:14:03.327Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.005999999999971806ms
+2018-06-13T04:14:03.351Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T04:14:03.357Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T04:14:03.362Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T04:14:03.362Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T04:14:03.363Z - normal: Simulator: D/jswrapper (125): JS: [TestSceneView][onLoad] -- onLoad
+2018-06-13T04:14:03.363Z - normal: Simulator: D/jswrapper (125): JS: [TestSceneView][onEnable] -- init
+2018-06-13T04:14:03.365Z - normal: Simulator: D/jswrapper (125): JS: Activate: 39.648000000000025ms
+2018-06-13T04:14:14.705Z - normal: Simulator: D/jswrapper (418): Debugger attached.
+2018-06-13T04:14:44.877Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][sendData]--tag:1,main:1,sub:2003
+2018-06-13T04:14:53.765Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-06-13T04:14:53.765Z - normal: Simulator: WORKAREA WIDTH 1904.00, HEIGHT 992.00
+2018-06-13T04:14:53.766Z - normal: Simulator: FRAME SCALE = 1.00
+2018-06-13T04:14:54.045Z - normal: Simulator: Ready for GLSL
+2018-06-13T04:14:54.045Z - normal: Simulator: Ready for OpenGL 2.0
+2018-06-13T04:14:54.048Z - normal: Simulator: 
+2018-06-13T04:14:54.048Z - normal: Simulator: {
+2018-06-13T04:14:54.049Z - normal: Simulator: 	gl.version: 4.4.0 - Build 21.20.16.4508
+2018-06-13T04:14:54.049Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-06-13T04:14:54.049Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-06-13T04:14:54.049Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-06-13T04:14:54.049Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-06-13T04:14:54.049Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-06-13T04:14:54.049Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-06-13T04:14:54.049Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-06-13T04:14:54.049Z - normal: Simulator: 	gl.vendor: Intel
+2018-06-13T04:14:54.049Z - normal: Simulator: 	gl.renderer: Intel(R) HD Graphics 630
+2018-06-13T04:14:54.049Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-06-13T04:14:54.049Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-06-13T04:14:54.049Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-06-13T04:14:54.049Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-06-13T04:14:54.049Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-06-13T04:14:54.050Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-06-13T04:14:54.050Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-06-13T04:14:54.050Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-06-13T04:14:54.050Z - normal: Simulator: }
+2018-06-13T04:14:54.050Z - normal: Simulator: 
+2018-06-13T04:14:54.050Z - normal: Simulator: 
+2018-06-13T04:14:54.050Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-06-13T04:14:54.052Z - normal: Simulator: Project Config:
+2018-06-13T04:14:54.052Z - normal: Simulator:     project dir: E:\code\client\cocos2d-x-lite\simulator\win32\
+2018-06-13T04:14:54.052Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-06-13T04:14:54.053Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-06-13T04:14:54.053Z - normal: Simulator:     frame size: 960 x 640
+2018-06-13T04:14:54.053Z - normal: Simulator:     frame scale: 1.00
+2018-06-13T04:14:54.053Z - normal: Simulator:     show console: NO
+2018-06-13T04:14:54.053Z - normal: Simulator:     write debug log: NO ()
+2018-06-13T04:14:54.053Z - normal: Simulator:     listen: 
+2018-06-13T04:14:54.053Z - normal: Simulator:     debugger: none
+2018-06-13T04:14:54.053Z - normal: Simulator:     add searching path:
+2018-06-13T04:14:54.053Z - normal: Simulator: 
+2018-06-13T04:14:54.053Z - normal: Simulator: 
+2018-06-13T04:14:54.053Z - normal: Simulator: 
+2018-06-13T04:14:54.053Z - normal: Simulator: ------------------------------------------------
+2018-06-13T04:14:54.054Z - normal: Simulator: LOAD Js FILE: main.js
+2018-06-13T04:14:54.054Z - normal: Simulator: ------------------------------------------------
+2018-06-13T04:14:54.060Z - normal: Simulator: D/jswrapper (364): Initializing V8, version: 6.0.286.52
+2018-06-13T04:14:54.342Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-06-13T04:14:54.343Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-06-13T04:14:54.343Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-06-13T04:14:54.489Z - normal: Simulator: D/jswrapper (125): JS: Cocos2d-x-lite v1.8.2
+2018-06-13T04:14:54.661Z - normal: Simulator: iShow!
+2018-06-13T04:14:54.668Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][ctor]--构造函数
+2018-06-13T04:14:54.668Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][ctor]--构造函数
+2018-06-13T04:14:54.739Z - normal: Simulator: D/jswrapper (125): JS: InitScene: 2.3360000000000127ms
+2018-06-13T04:14:54.739Z - normal: Simulator: D/jswrapper (125): JS: AutoRelease: 0.1209999999999809ms
+2018-06-13T04:14:54.740Z - normal: Simulator: D/jswrapper (125): JS: Destroy: 0.10000000000002274ms
+2018-06-13T04:14:54.740Z - normal: Simulator: D/jswrapper (125): JS: AttachPersist: 0.006000000000028649ms
+2018-06-13T04:14:54.751Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T04:14:54.754Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T04:14:54.761Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T04:14:54.761Z - normal: Simulator: D/jswrapper (125): JS: [WARN]: Sorry, lineHeight of system font not supported on JSB.
+2018-06-13T04:14:54.762Z - normal: Simulator: D/jswrapper (125): JS: [TestSceneView][onLoad] -- onLoad
+2018-06-13T04:14:54.762Z - normal: Simulator: D/jswrapper (125): JS: [TestSceneView][onEnable] -- init
+2018-06-13T04:14:54.765Z - normal: Simulator: D/jswrapper (125): JS: Activate: 24.38499999999999ms
+2018-06-13T04:14:57.838Z - normal: Simulator: D/jswrapper (418): Debugger attached.
+2018-06-13T04:15:00.160Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][connectServer]--server:127.0.0.1:9008,tag:1
+2018-06-13T04:15:00.677Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:1
+2018-06-13T04:15:00.678Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onConnected]--result:true
+2018-06-13T04:15:00.683Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][sendLogonPacket] --sendLogonPacket
+2018-06-13T04:15:00.683Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][sendData]--tag:1,main:1,sub:1001
+2018-06-13T04:15:01.161Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:3
+2018-06-13T04:15:01.162Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onTcpDataRecv] -- main:1,sub:1002,size:7
+2018-06-13T04:15:01.163Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onCmdMainLogon] --sub:1002,size:7
+2018-06-13T04:15:01.164Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onSubLogonResonse] --size:7
+2018-06-13T04:15:01.165Z - normal: Simulator: D/jswrapper (125): JS: [logonTest] -- id:1,name:wen
+2018-06-13T04:15:08.027Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][sendData]--tag:1,main:1,sub:2003
+2018-06-13T04:15:08.291Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][onSocketEvent]--type:3
+2018-06-13T04:15:08.291Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onTcpDataRecv] -- main:1,sub:2004,size:27
+2018-06-13T04:15:08.292Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onCmdMainLogon] --sub:2004,size:27
+2018-06-13T04:15:09.386Z - normal: Simulator: D/jswrapper (125): JS: [LogonManager][onSubRepeatResonse] --size:27
+2018-06-13T04:15:44.686Z - normal: Simulator: D/jswrapper (125): JS: [object Object]
+2018-06-13T04:15:48.779Z - normal: Simulator: D/jswrapper (125): JS: [BaseManager][disconnectServer]--tag:1
+2018-06-13T04:15:51.180Z - normal: Simulator: D/jswrapper (447): ScriptEngine::cleanup begin ...
+2018-06-13T04:15:51.180Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 84, all objects: 367
+2018-06-13T04:15:51.236Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 62, all objects: 345
+2018-06-13T04:15:51.237Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 62, all objects: 345
+2018-06-13T04:15:51.260Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 62, all objects: 345
+2018-06-13T04:15:51.261Z - normal: Simulator: D/jswrapper (588): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-06-13T04:15:51.282Z - normal: Simulator: D/jswrapper (596): GC end ..., (js->native map) size: 0, all objects: 0
+2018-06-13T04:15:51.287Z - normal: Simulator: D/jswrapper (480): Starting to cleanup dragonbones object, count: 0
+2018-06-13T04:15:51.287Z - normal: Simulator: D/jswrapper (499): After first cleanup, dragonbones object remained count: 0
+2018-06-13T04:15:51.288Z - normal: Simulator: D/jswrapper (515): After second cleanup, dragonbones object remained count: 0
+2018-06-13T04:15:51.288Z - normal: Simulator: D/jswrapper (510): ScriptEngine::cleanup end ...
+2018-06-13T04:16:00.457Z - info: shutdown preview server
