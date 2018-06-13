@@ -1,6 +1,5 @@
 # -*- coding: UTF-8 -*-  
-#A Test to Return a AES-File of a Common File
-#使用脚本时请先在脚本以及资源所在的目录创建一个res文件夹用于保存生成的文件
+# 脚本可以自动修改生成的proto.js文件，并拷贝到项目的目录下
 
 import os
 import shutil
